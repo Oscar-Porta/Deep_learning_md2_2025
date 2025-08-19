@@ -1,0 +1,24 @@
+{
+  "archivo_audio": "frase_34.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_34.wav",
+  "transcripcion": "La Alambra de Granada es uno de los monumentos más visitados de España.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Alambra de Granada",
+        "start": 3,
+        "end": 21,
+        "score": 0.8516126871109009
+      },
+      {
+        "texto": "España",
+        "start": 64,
+        "end": 70,
+        "score": 0.999505877494812
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:39.846281Z"
+}

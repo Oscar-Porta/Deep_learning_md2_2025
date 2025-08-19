@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_77.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_77.wav",
+  "transcripcion": "Cristina Pedroche presentó las campanadas en la puerta del sol.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Cristina Pedroche",
+        "start": 0,
+        "end": 17,
+        "score": 0.9975295662879944
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:42.140902Z"
+}

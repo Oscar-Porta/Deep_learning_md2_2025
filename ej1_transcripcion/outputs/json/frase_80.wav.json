@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_80.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_80.wav",
+  "transcripcion": "Correos ampliará su red de oficinas en zonas rurales de Galicia.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Correos",
+        "start": 0,
+        "end": 7,
+        "score": 0.9825584888458252
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Galicia",
+        "start": 56,
+        "end": 63,
+        "score": 0.9989535808563232
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:46.374790Z"
+}

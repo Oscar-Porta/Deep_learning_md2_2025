@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_06.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_06.wav",
+  "transcripcion": "Amazon abrió un centro logístico en Barcelona.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Amazon",
+        "start": 0,
+        "end": 6,
+        "score": 0.9925617575645447
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Barcelona",
+        "start": 36,
+        "end": 45,
+        "score": 0.9993731379508972
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:13:01.077118Z"
+}

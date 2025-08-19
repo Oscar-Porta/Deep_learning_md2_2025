@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_59.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_59.wav",
+  "transcripcion": "Pedro Almodóvar estrenó su última película en el Festival de Venecia.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Pedro Almodóvar",
+        "start": 0,
+        "end": 15,
+        "score": 0.9609808921813965
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "Festival de Venecia",
+        "start": 49,
+        "end": 68,
+        "score": 0.9686167240142822
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:17.949161Z"
+}

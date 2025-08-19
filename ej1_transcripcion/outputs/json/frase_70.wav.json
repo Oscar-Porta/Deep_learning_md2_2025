@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_70.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_70.wav",
+  "transcripcion": "El Rey Felipe VI presidió la ceremonia del 12 de octubre.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Rey Felipe VI",
+        "start": 3,
+        "end": 16,
+        "score": 0.9946383833885193
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:33.028639Z"
+}

@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_41.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_41.wav",
+  "transcripcion": "La Real Academia Español arregula el uso del idioma español.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Real Academia Español",
+        "start": 3,
+        "end": 24,
+        "score": 0.9424450993537903
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:53.449404Z"
+}

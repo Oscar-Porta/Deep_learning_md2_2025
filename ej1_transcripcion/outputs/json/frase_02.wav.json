@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_02.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_02.wav",
+  "transcripcion": "El escritor Gabriel García Marquez nació en Colombia.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Gabriel García Marquez",
+        "start": 12,
+        "end": 34,
+        "score": 0.9904562830924988
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Colombia",
+        "start": 44,
+        "end": 52,
+        "score": 0.9981563687324524
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:12:53.746199Z"
+}

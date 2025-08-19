@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_28.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_28.wav",
+  "transcripcion": "La marca Sara pertenece al grupo Inditex.",
+  "entidades": {
+    "MISC": [
+      {
+        "texto": "Sara",
+        "start": 9,
+        "end": 13,
+        "score": 0.9616223573684692
+      }
+    ],
+    "ORG": [
+      {
+        "texto": "Inditex",
+        "start": 33,
+        "end": 40,
+        "score": 0.9778352975845337
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:31.993416Z"
+}

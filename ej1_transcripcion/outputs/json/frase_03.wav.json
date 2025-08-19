@@ -1,0 +1,34 @@
+{
+  "archivo_audio": "frase_03.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_03.wav",
+  "transcripcion": "Apple presentó el nuevo iPhone en sucede de CUPartino U.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Apple",
+        "start": 0,
+        "end": 5,
+        "score": 0.9633318781852722
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "iPhone",
+        "start": 24,
+        "end": 30,
+        "score": 0.9713211059570312
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "CUPartino U",
+        "start": 44,
+        "end": 55,
+        "score": 0.8696333169937134
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:12:55.396030Z"
+}

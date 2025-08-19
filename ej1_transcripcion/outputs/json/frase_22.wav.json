@@ -1,0 +1,32 @@
+{
+  "archivo_audio": "frase_22.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_22.wav",
+  "transcripcion": "El río Guadalquivir pasa por Sevilla y Córdoba.",
+  "entidades": {
+    "MISC": [
+      {
+        "texto": "Guadalquivir",
+        "start": 7,
+        "end": 19,
+        "score": 0.9381843209266663
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Sevilla",
+        "start": 29,
+        "end": 36,
+        "score": 0.9995469450950623
+      },
+      {
+        "texto": "Córdoba",
+        "start": 39,
+        "end": 46,
+        "score": 0.9995025396347046
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:24.204186Z"
+}

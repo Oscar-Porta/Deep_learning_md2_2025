@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_45.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_45.wav",
+  "transcripcion": "La torre de pizza está ubicada en Italia.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Italia",
+        "start": 34,
+        "end": 40,
+        "score": 0.9990235567092896
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:00.025340Z"
+}

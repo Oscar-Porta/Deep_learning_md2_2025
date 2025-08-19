@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_58.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_58.wav",
+  "transcripcion": "El río hebró a través a Zaragoza y desembocan el mar Mediterráneo.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Zaragoza",
+        "start": 24,
+        "end": 32,
+        "score": 0.9993197917938232
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "Mediterráneo",
+        "start": 53,
+        "end": 65,
+        "score": 0.7989102602005005
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:16.642735Z"
+}

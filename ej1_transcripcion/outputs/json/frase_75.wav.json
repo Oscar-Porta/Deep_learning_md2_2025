@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_75.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_75.wav",
+  "transcripcion": "La película el laberinto del Fauna fue dirigida por Guillermo del Toro.",
+  "entidades": {
+    "MISC": [
+      {
+        "texto": "el laberinto del Fauna",
+        "start": 12,
+        "end": 34,
+        "score": 0.996086597442627
+      }
+    ],
+    "PER": [
+      {
+        "texto": "Guillermo del Toro",
+        "start": 52,
+        "end": 70,
+        "score": 0.9986842274665833
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:39.345783Z"
+}

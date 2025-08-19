@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_62.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_62.wav",
+  "transcripcion": "La Universidad Complutense de Madrid es una de las más antiguas de España.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Universidad Complutense de Madrid",
+        "start": 3,
+        "end": 36,
+        "score": 0.8893830180168152
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "España",
+        "start": 67,
+        "end": 73,
+        "score": 0.9994139671325684
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:23.245322Z"
+}

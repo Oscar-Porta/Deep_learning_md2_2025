@@ -1,0 +1,24 @@
+{
+  "archivo_audio": "frase_67.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_67.wav",
+  "transcripcion": "Barcelona es una de las ciudades más visitadas de Europa.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Barcelona",
+        "start": 0,
+        "end": 9,
+        "score": 0.9992802739143372
+      },
+      {
+        "texto": "Europa",
+        "start": 50,
+        "end": 56,
+        "score": 0.997520387172699
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:29.375332Z"
+}

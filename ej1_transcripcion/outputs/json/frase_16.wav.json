@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_16.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_16.wav",
+  "transcripcion": "La ciudad de Córdoba es conocida por su mezquita catedral.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Córdoba",
+        "start": 13,
+        "end": 20,
+        "score": 0.9987298846244812
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:09.296729Z"
+}

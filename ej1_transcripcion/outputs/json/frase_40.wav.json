@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_40.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_40.wav",
+  "transcripcion": "Shakira nació en Barranquilla y es una estrella mundial del pop.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Shakira",
+        "start": 0,
+        "end": 7,
+        "score": 0.7310453057289124
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Barranquilla",
+        "start": 17,
+        "end": 29,
+        "score": 0.9443983435630798
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:52.300856Z"
+}

@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_69.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_69.wav",
+  "transcripcion": "El Atlético de Madrid ganó la Liga en 2021.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Atlético de Madrid",
+        "start": 3,
+        "end": 21,
+        "score": 0.9981090426445007
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "Liga",
+        "start": 30,
+        "end": 34,
+        "score": 0.997675359249115
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:31.968281Z"
+}

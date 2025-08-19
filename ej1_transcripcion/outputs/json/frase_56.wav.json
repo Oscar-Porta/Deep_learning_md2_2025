@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_56.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_56.wav",
+  "transcripcion": "El escritor Mario Vargas y os anació en Perú.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Mario Vargas",
+        "start": 12,
+        "end": 24,
+        "score": 0.9915254712104797
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Perú",
+        "start": 40,
+        "end": 44,
+        "score": 0.758154034614563
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:14.259370Z"
+}

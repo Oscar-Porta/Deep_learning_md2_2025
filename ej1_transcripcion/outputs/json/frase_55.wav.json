@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_55.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_55.wav",
+  "transcripcion": "Clara Campó Amor fue una figura clave en el sufragio femenino en España.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Clara Campó Amor",
+        "start": 0,
+        "end": 16,
+        "score": 0.9968182444572449
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "España",
+        "start": 65,
+        "end": 71,
+        "score": 0.9990712404251099
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:12.691744Z"
+}

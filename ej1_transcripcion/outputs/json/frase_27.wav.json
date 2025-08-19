@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_27.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_27.wav",
+  "transcripcion": "La feria de abril es una tradición muy popular en Sevilla.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Sevilla",
+        "start": 50,
+        "end": 57,
+        "score": 0.999651312828064
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:30.575278Z"
+}

@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_79.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_79.wav",
+  "transcripcion": "El futbolista y Kercasillas anunció su retirada definitiva en 2020.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Kercasillas",
+        "start": 16,
+        "end": 27,
+        "score": 0.742932140827179
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:45.110653Z"
+}

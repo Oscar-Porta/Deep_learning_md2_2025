@@ -1,0 +1,34 @@
+{
+  "archivo_audio": "frase_31.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_31.wav",
+  "transcripcion": "Pablo Neruda nació en Chile y ganó el premio Nobel de Literatura.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Pablo Neruda",
+        "start": 0,
+        "end": 12,
+        "score": 0.978671133518219
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Chile",
+        "start": 22,
+        "end": 27,
+        "score": 0.9991946816444397
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "Nobel de Literatura",
+        "start": 45,
+        "end": 64,
+        "score": 0.9231972694396973
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:36.200857Z"
+}

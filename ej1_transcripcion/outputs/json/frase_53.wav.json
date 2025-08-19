@@ -1,0 +1,9 @@
+{
+  "archivo_audio": "frase_53.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_53.wav",
+  "transcripcion": "el uno de mayos se celebra el día del trabajador en muchos países.",
+  "entidades": {},
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:09.836728Z"
+}

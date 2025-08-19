@@ -1,0 +1,1971 @@
+[
+  {
+    "archivo_audio": "frase_01.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_01.wav",
+    "transcripcion": "Sofia viajó a Sevilla para asistir a un Congreso de Medicina.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Sofia",
+          "start": 0,
+          "end": 5,
+          "score": 0.9830706715583801
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Sevilla",
+          "start": 14,
+          "end": 21,
+          "score": 0.9994741082191467
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Congreso de Medicina",
+          "start": 40,
+          "end": 60,
+          "score": 0.979171097278595
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:12:53.020956Z"
+  },
+  {
+    "archivo_audio": "frase_02.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_02.wav",
+    "transcripcion": "El escritor Gabriel García Marquez nació en Colombia.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Gabriel García Marquez",
+          "start": 12,
+          "end": 34,
+          "score": 0.9904562830924988
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Colombia",
+          "start": 44,
+          "end": 52,
+          "score": 0.9981563687324524
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:12:53.746199Z"
+  },
+  {
+    "archivo_audio": "frase_03.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_03.wav",
+    "transcripcion": "Apple presentó el nuevo iPhone en sucede de CUPartino U.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Apple",
+          "start": 0,
+          "end": 5,
+          "score": 0.9633318781852722
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "iPhone",
+          "start": 24,
+          "end": 30,
+          "score": 0.9713211059570312
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "CUPartino U",
+          "start": 44,
+          "end": 55,
+          "score": 0.8696333169937134
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:12:55.396030Z"
+  },
+  {
+    "archivo_audio": "frase_04.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_04.wav",
+    "transcripcion": "La Copa Mundial de Fútbol se celebró en Rusia en 2018.",
+    "entidades": {
+      "MISC": [
+        {
+          "texto": "Copa Mundial de Fútbol",
+          "start": 3,
+          "end": 25,
+          "score": 0.9835141897201538
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Rusia",
+          "start": 40,
+          "end": 45,
+          "score": 0.9939265847206116
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:12:57.521934Z"
+  },
+  {
+    "archivo_audio": "frase_05.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_05.wav",
+    "transcripcion": "La conferencia tuvo lugar en el Palacio de Congresos de Madrid.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Palacio de Congresos",
+          "start": 32,
+          "end": 52,
+          "score": 0.9975417852401733
+        },
+        {
+          "texto": "Madrid",
+          "start": 56,
+          "end": 62,
+          "score": 0.7271393537521362
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:12:59.682008Z"
+  },
+  {
+    "archivo_audio": "frase_06.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_06.wav",
+    "transcripcion": "Amazon abrió un centro logístico en Barcelona.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Amazon",
+          "start": 0,
+          "end": 6,
+          "score": 0.9925617575645447
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Barcelona",
+          "start": 36,
+          "end": 45,
+          "score": 0.9993731379508972
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:13:01.077118Z"
+  },
+  {
+    "archivo_audio": "frase_07.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_07.wav",
+    "transcripcion": "El arquitecto Antónica Udid diseñó la Sagrada Familia.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Antónica Udid",
+          "start": 14,
+          "end": 27,
+          "score": 0.9964158535003662
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Sagrada Familia",
+          "start": 38,
+          "end": 53,
+          "score": 0.6235412955284119
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:13:02.829007Z"
+  },
+  {
+    "archivo_audio": "frase_08.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_08.wav",
+    "transcripcion": "La selección Argentina ganó la final de la Copa América.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Argentina",
+          "start": 13,
+          "end": 22,
+          "score": 0.7533725500106812
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Copa América",
+          "start": 43,
+          "end": 55,
+          "score": 0.9961550235748291
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:13:04.382456Z"
+  },
+  {
+    "archivo_audio": "frase_09.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_09.wav",
+    "transcripcion": "El Banco Mundial publicó un informe sobre economía global.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Banco Mundial",
+          "start": 3,
+          "end": 16,
+          "score": 0.999112606048584
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:13:06.153005Z"
+  },
+  {
+    "archivo_audio": "frase_10.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_10.wav",
+    "transcripcion": "El volcanteide está ubicado en la isla de Tenerife.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Tenerife",
+          "start": 42,
+          "end": 50,
+          "score": 0.9958999752998352
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:13:08.053546Z"
+  },
+  {
+    "archivo_audio": "frase_11.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_11.wav",
+    "transcripcion": "La escritora Laura Esquivel es famosa por su novela como agua para chocolate.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Laura Esquivel",
+          "start": 13,
+          "end": 27,
+          "score": 0.9965537190437317
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "como agua para chocolate",
+          "start": 52,
+          "end": 76,
+          "score": 0.8128312230110168
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:01.916872Z"
+  },
+  {
+    "archivo_audio": "frase_12.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_12.wav",
+    "transcripcion": "El pintor Salvador Dalinación en Figueres, España.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Salvador Dalinación",
+          "start": 10,
+          "end": 29,
+          "score": 0.9911462664604187
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Figueres",
+          "start": 33,
+          "end": 41,
+          "score": 0.9987953901290894
+        },
+        {
+          "texto": "España",
+          "start": 43,
+          "end": 49,
+          "score": 0.9992589354515076
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:03.460998Z"
+  },
+  {
+    "archivo_audio": "frase_13.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_13.wav",
+    "transcripcion": "La Universidad de Buenos Aires es una de las más grandes de América Latina.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Universidad de Buenos Aires",
+          "start": 3,
+          "end": 30,
+          "score": 0.9954606294631958
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "América Latina",
+          "start": 60,
+          "end": 74,
+          "score": 0.9940633773803711
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:05.375059Z"
+  },
+  {
+    "archivo_audio": "frase_14.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_14.wav",
+    "transcripcion": "ni que patrocina a varios deportistas internacionales.",
+    "entidades": {},
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:06.777199Z"
+  },
+  {
+    "archivo_audio": "frase_15.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_15.wav",
+    "transcripcion": "el canal de Panamá conecta el océano Atlántico con el Pacífico.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Panamá",
+          "start": 12,
+          "end": 18,
+          "score": 0.7928048372268677
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Atlántico",
+          "start": 37,
+          "end": 46,
+          "score": 0.7438305020332336
+        },
+        {
+          "texto": "Pa",
+          "start": 54,
+          "end": 56,
+          "score": 0.8710156679153442
+        },
+        {
+          "texto": "cí",
+          "start": 56,
+          "end": 58,
+          "score": 0.41539618372917175
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:07.992945Z"
+  },
+  {
+    "archivo_audio": "frase_16.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_16.wav",
+    "transcripcion": "La ciudad de Córdoba es conocida por su mezquita catedral.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Córdoba",
+          "start": 13,
+          "end": 20,
+          "score": 0.9987298846244812
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:09.296729Z"
+  },
+  {
+    "archivo_audio": "frase_17.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_17.wav",
+    "transcripcion": "El festival de cine de Cáneses celebra en Francia.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Cáneses",
+          "start": 23,
+          "end": 30,
+          "score": 0.7848748564720154
+        },
+        {
+          "texto": "Francia",
+          "start": 42,
+          "end": 49,
+          "score": 0.9993289709091187
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:10.530002Z"
+  },
+  {
+    "archivo_audio": "frase_18.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_18.wav",
+    "transcripcion": "Telefónica es una de las mayores empresas de telecomunicaciones en España.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Telefónica",
+          "start": 0,
+          "end": 10,
+          "score": 0.9914581179618835
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "España",
+          "start": 67,
+          "end": 73,
+          "score": 0.9994093179702759
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:11.972212Z"
+  },
+  {
+    "archivo_audio": "frase_19.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_19.wav",
+    "transcripcion": "La actriz penetró en el p écluso con una ferm conocer.",
+    "entidades": {},
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:18.220805Z"
+  },
+  {
+    "archivo_audio": "frase_20.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_20.wav",
+    "transcripcion": "La antártida es el continente más frío del planeta.",
+    "entidades": {},
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:21.218746Z"
+  },
+  {
+    "archivo_audio": "frase_21.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_21.wav",
+    "transcripcion": "El grupo musical mana es originario de México.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "México",
+          "start": 39,
+          "end": 45,
+          "score": 0.9991445541381836
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:23.020490Z"
+  },
+  {
+    "archivo_audio": "frase_22.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_22.wav",
+    "transcripcion": "El río Guadalquivir pasa por Sevilla y Córdoba.",
+    "entidades": {
+      "MISC": [
+        {
+          "texto": "Guadalquivir",
+          "start": 7,
+          "end": 19,
+          "score": 0.9381843209266663
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Sevilla",
+          "start": 29,
+          "end": 36,
+          "score": 0.9995469450950623
+        },
+        {
+          "texto": "Córdoba",
+          "start": 39,
+          "end": 46,
+          "score": 0.9995025396347046
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:24.204186Z"
+  },
+  {
+    "archivo_audio": "frase_23.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_23.wav",
+    "transcripcion": "La compañía irbustiene fábricas en Sevilla yjetafe.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Sevilla",
+          "start": 35,
+          "end": 42,
+          "score": 0.9993508458137512
+        },
+        {
+          "texto": "je",
+          "start": 44,
+          "end": 46,
+          "score": 0.6710724234580994
+        },
+        {
+          "texto": "ta",
+          "start": 46,
+          "end": 48,
+          "score": 0.5538952946662903
+        },
+        {
+          "texto": "fe",
+          "start": 48,
+          "end": 50,
+          "score": 0.7042043805122375
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:25.480822Z"
+  },
+  {
+    "archivo_audio": "frase_24.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_24.wav",
+    "transcripcion": "El científico Santiago Ramón y Cajal recibió el premio Nobel de Medicina.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Santiago Ramón y Cajal",
+          "start": 14,
+          "end": 36,
+          "score": 0.9967951774597168
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Nobel de",
+          "start": 55,
+          "end": 63,
+          "score": 0.6930538415908813
+        },
+        {
+          "texto": "Medicina",
+          "start": 64,
+          "end": 72,
+          "score": 0.6877928972244263
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:26.569649Z"
+  },
+  {
+    "archivo_audio": "frase_25.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_25.wav",
+    "transcripcion": "la ciudad de Quito está situada en Ecuador, en los Andes.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Qui",
+          "start": 13,
+          "end": 16,
+          "score": 0.9987459182739258
+        },
+        {
+          "texto": "to",
+          "start": 16,
+          "end": 18,
+          "score": 0.7824050188064575
+        },
+        {
+          "texto": "Ecuador",
+          "start": 35,
+          "end": 42,
+          "score": 0.9976523518562317
+        },
+        {
+          "texto": "And",
+          "start": 51,
+          "end": 54,
+          "score": 0.8598629236221313
+        },
+        {
+          "texto": "es",
+          "start": 54,
+          "end": 56,
+          "score": 0.41241082549095154
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:28.263282Z"
+  },
+  {
+    "archivo_audio": "frase_26.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_26.wav",
+    "transcripcion": "El escritor Miguel de Cervantes es autor de Donkey Hote.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Miguel de Cervantes",
+          "start": 12,
+          "end": 31,
+          "score": 0.9952972531318665
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Donkey Hote",
+          "start": 44,
+          "end": 55,
+          "score": 0.983292818069458
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:29.428839Z"
+  },
+  {
+    "archivo_audio": "frase_27.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_27.wav",
+    "transcripcion": "La feria de abril es una tradición muy popular en Sevilla.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Sevilla",
+          "start": 50,
+          "end": 57,
+          "score": 0.999651312828064
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:30.575278Z"
+  },
+  {
+    "archivo_audio": "frase_28.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_28.wav",
+    "transcripcion": "La marca Sara pertenece al grupo Inditex.",
+    "entidades": {
+      "MISC": [
+        {
+          "texto": "Sara",
+          "start": 9,
+          "end": 13,
+          "score": 0.9616223573684692
+        }
+      ],
+      "ORG": [
+        {
+          "texto": "Inditex",
+          "start": 33,
+          "end": 40,
+          "score": 0.9778352975845337
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:31.993416Z"
+  },
+  {
+    "archivo_audio": "frase_29.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_29.wav",
+    "transcripcion": "El estadio Camp Nou es la casa del FC Barcelona.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Camp Nou",
+          "start": 11,
+          "end": 19,
+          "score": 0.8226406574249268
+        }
+      ],
+      "ORG": [
+        {
+          "texto": "FC Barcelona",
+          "start": 35,
+          "end": 47,
+          "score": 0.9990243911743164
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:33.550336Z"
+  },
+  {
+    "archivo_audio": "frase_30.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_30.wav",
+    "transcripcion": "El Banco Central Europeo tiene sucede en Frankfurt.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Banco Central Europeo",
+          "start": 3,
+          "end": 24,
+          "score": 0.9982914924621582
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Frankfurt",
+          "start": 41,
+          "end": 50,
+          "score": 0.9992480874061584
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:34.676864Z"
+  },
+  {
+    "archivo_audio": "frase_31.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_31.wav",
+    "transcripcion": "Pablo Neruda nació en Chile y ganó el premio Nobel de Literatura.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Pablo Neruda",
+          "start": 0,
+          "end": 12,
+          "score": 0.978671133518219
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Chile",
+          "start": 22,
+          "end": 27,
+          "score": 0.9991946816444397
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Nobel de Literatura",
+          "start": 45,
+          "end": 64,
+          "score": 0.9231972694396973
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:36.200857Z"
+  },
+  {
+    "archivo_audio": "frase_32.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_32.wav",
+    "transcripcion": "La sede de la ONU se encuentra en Nueva York.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "ONU",
+          "start": 14,
+          "end": 17,
+          "score": 0.9969907999038696
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Nueva York",
+          "start": 34,
+          "end": 44,
+          "score": 0.9986469149589539
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:37.278949Z"
+  },
+  {
+    "archivo_audio": "frase_33.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_33.wav",
+    "transcripcion": "Rosalía ofrecerá un concierto en el Wishing Center de Madrid.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Rosalía",
+          "start": 0,
+          "end": 7,
+          "score": 0.8876048922538757
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Wishing Center",
+          "start": 36,
+          "end": 50,
+          "score": 0.9876896739006042
+        },
+        {
+          "texto": "Madrid",
+          "start": 54,
+          "end": 60,
+          "score": 0.9733160138130188
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:38.514301Z"
+  },
+  {
+    "archivo_audio": "frase_34.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_34.wav",
+    "transcripcion": "La Alambra de Granada es uno de los monumentos más visitados de España.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Alambra de Granada",
+          "start": 3,
+          "end": 21,
+          "score": 0.8516126871109009
+        },
+        {
+          "texto": "España",
+          "start": 64,
+          "end": 70,
+          "score": 0.999505877494812
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:39.846281Z"
+  },
+  {
+    "archivo_audio": "frase_35.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_35.wav",
+    "transcripcion": "La empresa rebsó la anunció una nueva inversión en energías renovables.",
+    "entidades": {},
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:42.073937Z"
+  },
+  {
+    "archivo_audio": "frase_36.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_36.wav",
+    "transcripcion": "Fernando Alonso compitió para el equipo al PAIN en la Formula 1.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Fernando Alonso",
+          "start": 0,
+          "end": 15,
+          "score": 0.922406792640686
+        },
+        {
+          "texto": "PAIN",
+          "start": 43,
+          "end": 47,
+          "score": 0.704125165939331
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Formula 1.",
+          "start": 54,
+          "end": 64,
+          "score": 0.9127522110939026
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:44.780892Z"
+  },
+  {
+    "archivo_audio": "frase_37.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_37.wav",
+    "transcripcion": "El 11 de septiembre de 2001 cambió la historia de Estados Unidos.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Estados Unidos",
+          "start": 50,
+          "end": 64,
+          "score": 0.9916408061981201
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:48.060352Z"
+  },
+  {
+    "archivo_audio": "frase_38.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_38.wav",
+    "transcripcion": "La NASA lanzará una nueva misión a Marte en 2026.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "NASA",
+          "start": 3,
+          "end": 7,
+          "score": 0.9983249306678772
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Marte",
+          "start": 35,
+          "end": 40,
+          "score": 0.9817659854888916
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:49.963788Z"
+  },
+  {
+    "archivo_audio": "frase_39.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_39.wav",
+    "transcripcion": "El Papa Francisco visitó Colombia en 2017.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Papa Francisco",
+          "start": 3,
+          "end": 17,
+          "score": 0.9747452735900879
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Colombia",
+          "start": 25,
+          "end": 33,
+          "score": 0.9962434768676758
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:51.120708Z"
+  },
+  {
+    "archivo_audio": "frase_40.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_40.wav",
+    "transcripcion": "Shakira nació en Barranquilla y es una estrella mundial del pop.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Shakira",
+          "start": 0,
+          "end": 7,
+          "score": 0.7310453057289124
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Barranquilla",
+          "start": 17,
+          "end": 29,
+          "score": 0.9443983435630798
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:52.300856Z"
+  },
+  {
+    "archivo_audio": "frase_41.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_41.wav",
+    "transcripcion": "La Real Academia Español arregula el uso del idioma español.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Real Academia Español",
+          "start": 3,
+          "end": 24,
+          "score": 0.9424450993537903
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:53.449404Z"
+  },
+  {
+    "archivo_audio": "frase_42.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_42.wav",
+    "transcripcion": "Amazon tiene un centro de distribución en hilescas, Toledo.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Amazon",
+          "start": 0,
+          "end": 6,
+          "score": 0.9930934906005859
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Toledo",
+          "start": 52,
+          "end": 58,
+          "score": 0.9984627962112427
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:54.771435Z"
+  },
+  {
+    "archivo_audio": "frase_43.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_43.wav",
+    "transcripcion": "La sagrada familia fue diseñada por Antón y Gaudí.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Antón",
+          "start": 36,
+          "end": 41,
+          "score": 0.9968775510787964
+        },
+        {
+          "texto": "Gau",
+          "start": 44,
+          "end": 47,
+          "score": 0.9964937567710876
+        },
+        {
+          "texto": "dí",
+          "start": 47,
+          "end": 49,
+          "score": 0.8229138851165771
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:55.856616Z"
+  },
+  {
+    "archivo_audio": "frase_44.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_44.wav",
+    "transcripcion": "El escritor Jorge Luis Borges nació en Buenos Aires.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Jorge Luis Borges",
+          "start": 12,
+          "end": 29,
+          "score": 0.9938803315162659
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Buenos Aires",
+          "start": 39,
+          "end": 51,
+          "score": 0.9962665438652039
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:14:58.774827Z"
+  },
+  {
+    "archivo_audio": "frase_45.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_45.wav",
+    "transcripcion": "La torre de pizza está ubicada en Italia.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Italia",
+          "start": 34,
+          "end": 40,
+          "score": 0.9990235567092896
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:00.025340Z"
+  },
+  {
+    "archivo_audio": "frase_46.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_46.wav",
+    "transcripcion": "Banco Saba de y trasladó sucede alicante.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Banco Saba",
+          "start": 0,
+          "end": 10,
+          "score": 0.9578233361244202
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:01.136584Z"
+  },
+  {
+    "archivo_audio": "frase_47.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_47.wav",
+    "transcripcion": "La cantante Aitana actuará en el Palau Sanioordi.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Ai",
+          "start": 12,
+          "end": 14,
+          "score": 0.6120542287826538
+        },
+        {
+          "texto": "tana",
+          "start": 14,
+          "end": 18,
+          "score": 0.5951960682868958
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Palau Sanioordi",
+          "start": 33,
+          "end": 48,
+          "score": 0.9956977963447571
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:02.357002Z"
+  },
+  {
+    "archivo_audio": "frase_48.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_48.wav",
+    "transcripcion": "Francisco de Gollanació en Fuende Todos, Zaragoza.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Francisco de Gollanació",
+          "start": 0,
+          "end": 23,
+          "score": 0.9941614270210266
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Fuende Todos",
+          "start": 27,
+          "end": 39,
+          "score": 0.9909615516662598
+        },
+        {
+          "texto": "Zaragoza",
+          "start": 41,
+          "end": 49,
+          "score": 0.9991834759712219
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:03.618308Z"
+  },
+  {
+    "archivo_audio": "frase_49.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_49.wav",
+    "transcripcion": "El Museo Reina sofía al verga el Gernica de Picasso.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Museo Reina",
+          "start": 3,
+          "end": 14,
+          "score": 0.9342754483222961
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Gernica",
+          "start": 33,
+          "end": 40,
+          "score": 0.9757190942764282
+        }
+      ],
+      "PER": [
+        {
+          "texto": "Picasso",
+          "start": 44,
+          "end": 51,
+          "score": 0.7824888229370117
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:05.020440Z"
+  },
+  {
+    "archivo_audio": "frase_50.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_50.wav",
+    "transcripcion": "Inditex reportó ganancias recorden el primer trimestre de 2025.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Inditex",
+          "start": 0,
+          "end": 7,
+          "score": 0.9297704696655273
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:06.279106Z"
+  },
+  {
+    "archivo_audio": "frase_51.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_51.wav",
+    "transcripcion": "Rafael Nadal ganó su décimo cuarto rola en Garros en Paris.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Rafael Nadal",
+          "start": 0,
+          "end": 12,
+          "score": 0.9931474924087524
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Garros",
+          "start": 43,
+          "end": 49,
+          "score": 0.9815545082092285
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Paris",
+          "start": 53,
+          "end": 58,
+          "score": 0.9990039467811584
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:07.400297Z"
+  },
+  {
+    "archivo_audio": "frase_52.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_52.wav",
+    "transcripcion": "El Parque Nacional de Doñana está en Andalucía.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Parque Nacional de Doñana",
+          "start": 3,
+          "end": 28,
+          "score": 0.9846057891845703
+        },
+        {
+          "texto": "Andalucía",
+          "start": 37,
+          "end": 46,
+          "score": 0.9986879229545593
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:08.412404Z"
+  },
+  {
+    "archivo_audio": "frase_53.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_53.wav",
+    "transcripcion": "el uno de mayos se celebra el día del trabajador en muchos países.",
+    "entidades": {},
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:09.836728Z"
+  },
+  {
+    "archivo_audio": "frase_54.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_54.wav",
+    "transcripcion": "La empresa VVA tiene presencia en más de 30 países.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "VVA",
+          "start": 11,
+          "end": 14,
+          "score": 0.9163141250610352
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:11.264806Z"
+  },
+  {
+    "archivo_audio": "frase_55.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_55.wav",
+    "transcripcion": "Clara Campó Amor fue una figura clave en el sufragio femenino en España.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Clara Campó Amor",
+          "start": 0,
+          "end": 16,
+          "score": 0.9968182444572449
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "España",
+          "start": 65,
+          "end": 71,
+          "score": 0.9990712404251099
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:12.691744Z"
+  },
+  {
+    "archivo_audio": "frase_56.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_56.wav",
+    "transcripcion": "El escritor Mario Vargas y os anació en Perú.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Mario Vargas",
+          "start": 12,
+          "end": 24,
+          "score": 0.9915254712104797
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Perú",
+          "start": 40,
+          "end": 44,
+          "score": 0.758154034614563
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:14.259370Z"
+  },
+  {
+    "archivo_audio": "frase_57.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_57.wav",
+    "transcripcion": "La compañía Iberia opera vuelos a América Latina desde Madrid.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Iberia",
+          "start": 12,
+          "end": 18,
+          "score": 0.8476362824440002
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "América Latina",
+          "start": 34,
+          "end": 48,
+          "score": 0.9978105425834656
+        },
+        {
+          "texto": "Madrid",
+          "start": 55,
+          "end": 61,
+          "score": 0.9996079802513123
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:15.451305Z"
+  },
+  {
+    "archivo_audio": "frase_58.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_58.wav",
+    "transcripcion": "El río hebró a través a Zaragoza y desembocan el mar Mediterráneo.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Zaragoza",
+          "start": 24,
+          "end": 32,
+          "score": 0.9993197917938232
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Mediterráneo",
+          "start": 53,
+          "end": 65,
+          "score": 0.7989102602005005
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:16.642735Z"
+  },
+  {
+    "archivo_audio": "frase_59.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_59.wav",
+    "transcripcion": "Pedro Almodóvar estrenó su última película en el Festival de Venecia.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Pedro Almodóvar",
+          "start": 0,
+          "end": 15,
+          "score": 0.9609808921813965
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Festival de Venecia",
+          "start": 49,
+          "end": 68,
+          "score": 0.9686167240142822
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:17.949161Z"
+  },
+  {
+    "archivo_audio": "frase_60.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_60.wav",
+    "transcripcion": "La Catedral de Santiago es destino final del camino de Santiago.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Catedral de Santiago",
+          "start": 3,
+          "end": 23,
+          "score": 0.9965729117393494
+        },
+        {
+          "texto": "Santiago",
+          "start": 55,
+          "end": 63,
+          "score": 0.9955783486366272
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:19.321986Z"
+  },
+  {
+    "archivo_audio": "frase_61.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_61.wav",
+    "transcripcion": "Google organizó un evento en San Francisco para presentar novedades.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Google",
+          "start": 0,
+          "end": 6,
+          "score": 0.9868742823600769
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "San Francisco",
+          "start": 29,
+          "end": 42,
+          "score": 0.9983923435211182
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:20.633918Z"
+  },
+  {
+    "archivo_audio": "frase_62.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_62.wav",
+    "transcripcion": "La Universidad Complutense de Madrid es una de las más antiguas de España.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Universidad Complutense de Madrid",
+          "start": 3,
+          "end": 36,
+          "score": 0.8893830180168152
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "España",
+          "start": 67,
+          "end": 73,
+          "score": 0.9994139671325684
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:23.245322Z"
+  },
+  {
+    "archivo_audio": "frase_63.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_63.wav",
+    "transcripcion": "El periodista inyaki Gabilondo recibió un premio por su trayectoria.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Gabilondo",
+          "start": 21,
+          "end": 30,
+          "score": 0.8372635841369629
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:24.748478Z"
+  },
+  {
+    "archivo_audio": "frase_64.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_64.wav",
+    "transcripcion": "Mercedes Benz abrió una planta en vitoria Gasteiz.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Mercedes Benz",
+          "start": 0,
+          "end": 13,
+          "score": 0.9975159168243408
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "vi",
+          "start": 34,
+          "end": 36,
+          "score": 0.8133100867271423
+        },
+        {
+          "texto": "toria",
+          "start": 36,
+          "end": 41,
+          "score": 0.6351194381713867
+        },
+        {
+          "texto": "Gasteiz",
+          "start": 42,
+          "end": 49,
+          "score": 0.9901774525642395
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:25.834037Z"
+  },
+  {
+    "archivo_audio": "frase_65.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_65.wav",
+    "transcripcion": "Machu Picchu es uno de los principales atractivos turísticos de Perú.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Machu Picchu",
+          "start": 0,
+          "end": 12,
+          "score": 0.903862476348877
+        },
+        {
+          "texto": "Perú",
+          "start": 64,
+          "end": 68,
+          "score": 0.8437583446502686
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:27.031994Z"
+  },
+  {
+    "archivo_audio": "frase_66.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_66.wav",
+    "transcripcion": "La reina Leticia asistió a un acto en la Biblioteca Nacional.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Leticia",
+          "start": 9,
+          "end": 16,
+          "score": 0.8189215064048767
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Biblioteca Nacional",
+          "start": 41,
+          "end": 60,
+          "score": 0.9948747158050537
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:28.260920Z"
+  },
+  {
+    "archivo_audio": "frase_67.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_67.wav",
+    "transcripcion": "Barcelona es una de las ciudades más visitadas de Europa.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Barcelona",
+          "start": 0,
+          "end": 9,
+          "score": 0.9992802739143372
+        },
+        {
+          "texto": "Europa",
+          "start": 50,
+          "end": 56,
+          "score": 0.997520387172699
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:29.375332Z"
+  },
+  {
+    "archivo_audio": "frase_68.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_68.wav",
+    "transcripcion": "La escritora almudena grandes falleció en 2021.",
+    "entidades": {},
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:30.522049Z"
+  },
+  {
+    "archivo_audio": "frase_69.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_69.wav",
+    "transcripcion": "El Atlético de Madrid ganó la Liga en 2021.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Atlético de Madrid",
+          "start": 3,
+          "end": 21,
+          "score": 0.9981090426445007
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Liga",
+          "start": 30,
+          "end": 34,
+          "score": 0.997675359249115
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:31.968281Z"
+  },
+  {
+    "archivo_audio": "frase_70.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_70.wav",
+    "transcripcion": "El Rey Felipe VI presidió la ceremonia del 12 de octubre.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Rey Felipe VI",
+          "start": 3,
+          "end": 16,
+          "score": 0.9946383833885193
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:33.028639Z"
+  },
+  {
+    "archivo_audio": "frase_71.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_71.wav",
+    "transcripcion": "El festival primavera se ha un reúne a miles de asistentes en Barcelona.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Barcelona",
+          "start": 62,
+          "end": 71,
+          "score": 0.9993645548820496
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:34.330665Z"
+  },
+  {
+    "archivo_audio": "frase_72.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_72.wav",
+    "transcripcion": "El Museo Gugenjei me está ubicado en Bilbao.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Museo Gugenjei",
+          "start": 3,
+          "end": 17,
+          "score": 0.9921501278877258
+        },
+        {
+          "texto": "Bilbao",
+          "start": 37,
+          "end": 43,
+          "score": 0.9993554949760437
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:35.579882Z"
+  },
+  {
+    "archivo_audio": "frase_73.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_73.wav",
+    "transcripcion": "El escritor Eduardo Mendoza recibió el premio Cervantes.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Eduardo Mendoza",
+          "start": 12,
+          "end": 27,
+          "score": 0.9947081208229065
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "Cervantes",
+          "start": 46,
+          "end": 55,
+          "score": 0.8821650743484497
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:36.855748Z"
+  },
+  {
+    "archivo_audio": "frase_74.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_74.wav",
+    "transcripcion": "El puerto de Valencia es uno de los más importantes del Mediterráneo.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Valencia",
+          "start": 13,
+          "end": 21,
+          "score": 0.998986542224884
+        },
+        {
+          "texto": "Medi",
+          "start": 56,
+          "end": 60,
+          "score": 0.6790911555290222
+        },
+        {
+          "texto": "ter",
+          "start": 60,
+          "end": 63,
+          "score": 0.3451622426509857
+        },
+        {
+          "texto": "neo",
+          "start": 65,
+          "end": 68,
+          "score": 0.49279049038887024
+        }
+      ],
+      "MISC": [
+        {
+          "texto": "rá",
+          "start": 63,
+          "end": 65,
+          "score": 0.4233126938343048
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:38.083542Z"
+  },
+  {
+    "archivo_audio": "frase_75.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_75.wav",
+    "transcripcion": "La película el laberinto del Fauna fue dirigida por Guillermo del Toro.",
+    "entidades": {
+      "MISC": [
+        {
+          "texto": "el laberinto del Fauna",
+          "start": 12,
+          "end": 34,
+          "score": 0.996086597442627
+        }
+      ],
+      "PER": [
+        {
+          "texto": "Guillermo del Toro",
+          "start": 52,
+          "end": 70,
+          "score": 0.9986842274665833
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:39.345783Z"
+  },
+  {
+    "archivo_audio": "frase_76.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_76.wav",
+    "transcripcion": "La marca mango tiene tiendas en más de 100 países.",
+    "entidades": {},
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:40.492575Z"
+  },
+  {
+    "archivo_audio": "frase_77.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_77.wav",
+    "transcripcion": "Cristina Pedroche presentó las campanadas en la puerta del sol.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Cristina Pedroche",
+          "start": 0,
+          "end": 17,
+          "score": 0.9975295662879944
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:42.140902Z"
+  },
+  {
+    "archivo_audio": "frase_78.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_78.wav",
+    "transcripcion": "El hospital clinic de Barcelona es referencia en investigación médica.",
+    "entidades": {
+      "LOC": [
+        {
+          "texto": "Barcelona",
+          "start": 22,
+          "end": 31,
+          "score": 0.9990189075469971
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:43.371082Z"
+  },
+  {
+    "archivo_audio": "frase_79.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_79.wav",
+    "transcripcion": "El futbolista y Kercasillas anunció su retirada definitiva en 2020.",
+    "entidades": {
+      "PER": [
+        {
+          "texto": "Kercasillas",
+          "start": 16,
+          "end": 27,
+          "score": 0.742932140827179
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:45.110653Z"
+  },
+  {
+    "archivo_audio": "frase_80.wav",
+    "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_80.wav",
+    "transcripcion": "Correos ampliará su red de oficinas en zonas rurales de Galicia.",
+    "entidades": {
+      "ORG": [
+        {
+          "texto": "Correos",
+          "start": 0,
+          "end": 7,
+          "score": 0.9825584888458252
+        }
+      ],
+      "LOC": [
+        {
+          "texto": "Galicia",
+          "start": 56,
+          "end": 63,
+          "score": 0.9989535808563232
+        }
+      ]
+    },
+    "modelo_whisper": "base",
+    "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+    "timestamp": "2025-08-17T11:15:46.374790Z"
+  }
+]

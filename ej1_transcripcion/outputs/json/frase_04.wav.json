@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_04.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_04.wav",
+  "transcripcion": "La Copa Mundial de Fútbol se celebró en Rusia en 2018.",
+  "entidades": {
+    "MISC": [
+      {
+        "texto": "Copa Mundial de Fútbol",
+        "start": 3,
+        "end": 25,
+        "score": 0.9835141897201538
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Rusia",
+        "start": 40,
+        "end": 45,
+        "score": 0.9939265847206116
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:12:57.521934Z"
+}

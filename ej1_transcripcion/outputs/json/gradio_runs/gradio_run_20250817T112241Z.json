@@ -1,0 +1,45 @@
+{
+  "timestamp_utc": "2025-08-17T11:22:41.110970Z",
+  "audio_file": "audio.wav",
+  "language": "es",
+  "whisper_size": "base",
+  "ner_model": "MMG/xlm-roberta-large-ner-spanish",
+  "transcription": "Oscar Viajo, este lunes a Madrid, para un Congreso de Amazon Prime. A la vuelta, si fue por Zara Goza para reunirse con el jefe de Facebook.",
+  "entities": [
+    {
+      "entity_group": "PER",
+      "word": "Oscar",
+      "score": 0.9953461289405823,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "entity_group": "LOC",
+      "word": "Madrid",
+      "score": 0.9996309280395508,
+      "start": 26,
+      "end": 32
+    },
+    {
+      "entity_group": "MISC",
+      "word": "Congreso de Amazon Prime",
+      "score": 0.9249902963638306,
+      "start": 42,
+      "end": 66
+    },
+    {
+      "entity_group": "LOC",
+      "word": "Zara Goza",
+      "score": 0.9517804980278015,
+      "start": 92,
+      "end": 101
+    },
+    {
+      "entity_group": "ORG",
+      "word": "Facebook",
+      "score": 0.9594692587852478,
+      "start": 131,
+      "end": 139
+    }
+  ]
+}

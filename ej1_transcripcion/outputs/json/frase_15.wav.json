@@ -1,0 +1,38 @@
+{
+  "archivo_audio": "frase_15.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_15.wav",
+  "transcripcion": "el canal de Panamá conecta el océano Atlántico con el Pacífico.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Panamá",
+        "start": 12,
+        "end": 18,
+        "score": 0.7928048372268677
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "Atlántico",
+        "start": 37,
+        "end": 46,
+        "score": 0.7438305020332336
+      },
+      {
+        "texto": "Pa",
+        "start": 54,
+        "end": 56,
+        "score": 0.8710156679153442
+      },
+      {
+        "texto": "cí",
+        "start": 56,
+        "end": 58,
+        "score": 0.41539618372917175
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:07.992945Z"
+}

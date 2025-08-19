@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_08.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_08.wav",
+  "transcripcion": "La selección Argentina ganó la final de la Copa América.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Argentina",
+        "start": 13,
+        "end": 22,
+        "score": 0.7533725500106812
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "Copa América",
+        "start": 43,
+        "end": 55,
+        "score": 0.9961550235748291
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:13:04.382456Z"
+}

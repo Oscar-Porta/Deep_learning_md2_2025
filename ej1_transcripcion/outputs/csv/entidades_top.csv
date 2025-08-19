@@ -1,0 +1,137 @@
+tipo,texto,frecuencia,confianza_media
+LOC,España,5,0.999
+LOC,Barcelona,4,0.999
+LOC,Sevilla,4,1.0
+LOC,Madrid,3,0.9
+LOC,América Latina,2,0.996
+LOC,Colombia,2,0.997
+LOC,Córdoba,2,0.999
+LOC,Perú,2,0.801
+LOC,Zaragoza,2,0.999
+LOC,Alambra de Granada,1,0.852
+LOC,And,1,0.86
+LOC,Andalucía,1,0.999
+LOC,Barranquilla,1,0.944
+LOC,Biblioteca Nacional,1,0.995
+LOC,Bilbao,1,0.999
+LOC,Buenos Aires,1,0.996
+LOC,CUPartino U,1,0.87
+LOC,Camp Nou,1,0.823
+LOC,Catedral de Santiago,1,0.997
+LOC,Chile,1,0.999
+LOC,Cáneses,1,0.785
+LOC,Ecuador,1,0.998
+LOC,Europa,1,0.998
+LOC,Figueres,1,0.999
+LOC,Francia,1,0.999
+LOC,Frankfurt,1,0.999
+LOC,Fuende Todos,1,0.991
+LOC,Galicia,1,0.999
+LOC,Gasteiz,1,0.99
+LOC,Italia,1,0.999
+LOC,Machu Picchu,1,0.904
+LOC,Marte,1,0.982
+LOC,Medi,1,0.679
+LOC,Museo Gugenjei,1,0.992
+LOC,Museo Reina,1,0.934
+LOC,México,1,0.999
+LOC,Nueva York,1,0.999
+LOC,Palacio de Congresos,1,0.998
+LOC,Palau Sanioordi,1,0.996
+LOC,Panamá,1,0.793
+LOC,Paris,1,0.999
+LOC,Parque Nacional de Doñana,1,0.985
+LOC,Qui,1,0.999
+LOC,Rusia,1,0.994
+LOC,Sagrada Familia,1,0.624
+LOC,San Francisco,1,0.998
+LOC,Santiago,1,0.996
+LOC,Tenerife,1,0.996
+LOC,Toledo,1,0.998
+LOC,Valencia,1,0.999
+LOC,Wishing Center,1,0.988
+LOC,es,1,0.412
+LOC,fe,1,0.704
+LOC,je,1,0.671
+LOC,neo,1,0.493
+LOC,ta,1,0.554
+LOC,ter,1,0.345
+LOC,to,1,0.782
+LOC,toria,1,0.635
+LOC,vi,1,0.813
+MISC,Atlántico,1,0.744
+MISC,Cervantes,1,0.882
+MISC,Congreso de Medicina,1,0.979
+MISC,Copa América,1,0.996
+MISC,Copa Mundial de Fútbol,1,0.984
+MISC,Donkey Hote,1,0.983
+MISC,Festival de Venecia,1,0.969
+MISC,Formula 1.,1,0.913
+MISC,Garros,1,0.982
+MISC,Gernica,1,0.976
+MISC,Guadalquivir,1,0.938
+MISC,Liga,1,0.998
+MISC,Medicina,1,0.688
+MISC,Mediterráneo,1,0.799
+MISC,Nobel de,1,0.693
+MISC,Nobel de Literatura,1,0.923
+MISC,Pa,1,0.871
+MISC,Sara,1,0.962
+MISC,como agua para chocolate,1,0.813
+MISC,cí,1,0.415
+MISC,el laberinto del Fauna,1,0.996
+MISC,iPhone,1,0.971
+MISC,rá,1,0.423
+ORG,Amazon,2,0.993
+ORG,Inditex,2,0.954
+ORG,Apple,1,0.963
+ORG,Argentina,1,0.753
+ORG,Atlético de Madrid,1,0.998
+ORG,Banco Central Europeo,1,0.998
+ORG,Banco Mundial,1,0.999
+ORG,Banco Saba,1,0.958
+ORG,Correos,1,0.983
+ORG,Estados Unidos,1,0.992
+ORG,FC Barcelona,1,0.999
+ORG,Google,1,0.987
+ORG,Iberia,1,0.848
+ORG,Mercedes Benz,1,0.998
+ORG,NASA,1,0.998
+ORG,ONU,1,0.997
+ORG,Real Academia Español,1,0.942
+ORG,Telefónica,1,0.991
+ORG,Universidad Complutense de Madrid,1,0.889
+ORG,Universidad de Buenos Aires,1,0.995
+ORG,VVA,1,0.916
+PER,Ai,1,0.612
+PER,Antón,1,0.997
+PER,Antónica Udid,1,0.996
+PER,Clara Campó Amor,1,0.997
+PER,Cristina Pedroche,1,0.998
+PER,Eduardo Mendoza,1,0.995
+PER,Fernando Alonso,1,0.922
+PER,Francisco de Gollanació,1,0.994
+PER,Gabilondo,1,0.837
+PER,Gabriel García Marquez,1,0.99
+PER,Gau,1,0.996
+PER,Guillermo del Toro,1,0.999
+PER,Jorge Luis Borges,1,0.994
+PER,Kercasillas,1,0.743
+PER,Laura Esquivel,1,0.997
+PER,Leticia,1,0.819
+PER,Mario Vargas,1,0.992
+PER,Miguel de Cervantes,1,0.995
+PER,PAIN,1,0.704
+PER,Pablo Neruda,1,0.979
+PER,Papa Francisco,1,0.975
+PER,Pedro Almodóvar,1,0.961
+PER,Picasso,1,0.782
+PER,Rafael Nadal,1,0.993
+PER,Rey Felipe VI,1,0.995
+PER,Rosalía,1,0.888
+PER,Salvador Dalinación,1,0.991
+PER,Santiago Ramón y Cajal,1,0.997
+PER,Shakira,1,0.731
+PER,Sofia,1,0.983
+PER,dí,1,0.823
+PER,tana,1,0.595

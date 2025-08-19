@@ -1,0 +1,34 @@
+{
+  "archivo_audio": "frase_49.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_49.wav",
+  "transcripcion": "El Museo Reina sofía al verga el Gernica de Picasso.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Museo Reina",
+        "start": 3,
+        "end": 14,
+        "score": 0.9342754483222961
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "Gernica",
+        "start": 33,
+        "end": 40,
+        "score": 0.9757190942764282
+      }
+    ],
+    "PER": [
+      {
+        "texto": "Picasso",
+        "start": 44,
+        "end": 51,
+        "score": 0.7824888229370117
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:05.020440Z"
+}

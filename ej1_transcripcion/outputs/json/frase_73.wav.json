@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_73.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_73.wav",
+  "transcripcion": "El escritor Eduardo Mendoza recibió el premio Cervantes.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Eduardo Mendoza",
+        "start": 12,
+        "end": 27,
+        "score": 0.9947081208229065
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "Cervantes",
+        "start": 46,
+        "end": 55,
+        "score": 0.8821650743484497
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:36.855748Z"
+}

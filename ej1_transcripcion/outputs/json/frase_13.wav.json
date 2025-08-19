@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_13.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_13.wav",
+  "transcripcion": "La Universidad de Buenos Aires es una de las más grandes de América Latina.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Universidad de Buenos Aires",
+        "start": 3,
+        "end": 30,
+        "score": 0.9954606294631958
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "América Latina",
+        "start": 60,
+        "end": 74,
+        "score": 0.9940633773803711
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:05.375059Z"
+}

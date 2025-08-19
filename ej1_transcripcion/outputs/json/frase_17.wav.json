@@ -1,0 +1,24 @@
+{
+  "archivo_audio": "frase_17.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_17.wav",
+  "transcripcion": "El festival de cine de Cáneses celebra en Francia.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Cáneses",
+        "start": 23,
+        "end": 30,
+        "score": 0.7848748564720154
+      },
+      {
+        "texto": "Francia",
+        "start": 42,
+        "end": 49,
+        "score": 0.9993289709091187
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:10.530002Z"
+}

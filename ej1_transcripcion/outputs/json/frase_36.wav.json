@@ -1,0 +1,32 @@
+{
+  "archivo_audio": "frase_36.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_36.wav",
+  "transcripcion": "Fernando Alonso compitió para el equipo al PAIN en la Formula 1.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Fernando Alonso",
+        "start": 0,
+        "end": 15,
+        "score": 0.922406792640686
+      },
+      {
+        "texto": "PAIN",
+        "start": 43,
+        "end": 47,
+        "score": 0.704125165939331
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "Formula 1.",
+        "start": 54,
+        "end": 64,
+        "score": 0.9127522110939026
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:44.780892Z"
+}

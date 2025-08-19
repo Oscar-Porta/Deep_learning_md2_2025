@@ -1,0 +1,38 @@
+{
+  "archivo_audio": "frase_64.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_64.wav",
+  "transcripcion": "Mercedes Benz abrió una planta en vitoria Gasteiz.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Mercedes Benz",
+        "start": 0,
+        "end": 13,
+        "score": 0.9975159168243408
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "vi",
+        "start": 34,
+        "end": 36,
+        "score": 0.8133100867271423
+      },
+      {
+        "texto": "toria",
+        "start": 36,
+        "end": 41,
+        "score": 0.6351194381713867
+      },
+      {
+        "texto": "Gasteiz",
+        "start": 42,
+        "end": 49,
+        "score": 0.9901774525642395
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:25.834037Z"
+}

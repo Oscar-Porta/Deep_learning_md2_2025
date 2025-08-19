@@ -1,0 +1,9 @@
+{
+  "archivo_audio": "frase_76.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_76.wav",
+  "transcripcion": "La marca mango tiene tiendas en más de 100 países.",
+  "entidades": {},
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:40.492575Z"
+}

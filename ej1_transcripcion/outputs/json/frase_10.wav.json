@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_10.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_10.wav",
+  "transcripcion": "El volcanteide está ubicado en la isla de Tenerife.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Tenerife",
+        "start": 42,
+        "end": 50,
+        "score": 0.9958999752998352
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:13:08.053546Z"
+}

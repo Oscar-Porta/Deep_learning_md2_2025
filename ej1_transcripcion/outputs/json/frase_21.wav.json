@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_21.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_21.wav",
+  "transcripcion": "El grupo musical mana es originario de México.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "México",
+        "start": 39,
+        "end": 45,
+        "score": 0.9991445541381836
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:23.020490Z"
+}

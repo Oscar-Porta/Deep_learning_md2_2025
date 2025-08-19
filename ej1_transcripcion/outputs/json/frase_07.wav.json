@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_07.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_07.wav",
+  "transcripcion": "El arquitecto Antónica Udid diseñó la Sagrada Familia.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Antónica Udid",
+        "start": 14,
+        "end": 27,
+        "score": 0.9964158535003662
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Sagrada Familia",
+        "start": 38,
+        "end": 53,
+        "score": 0.6235412955284119
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:13:02.829007Z"
+}

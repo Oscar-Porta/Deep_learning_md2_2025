@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_78.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_78.wav",
+  "transcripcion": "El hospital clinic de Barcelona es referencia en investigación médica.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Barcelona",
+        "start": 22,
+        "end": 31,
+        "score": 0.9990189075469971
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:43.371082Z"
+}

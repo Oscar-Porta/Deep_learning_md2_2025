@@ -1,0 +1,31 @@
+{
+  "timestamp_utc": "2025-08-17T11:42:46.386359Z",
+  "audio_file": "audio.wav",
+  "language": "es",
+  "whisper_size": "base",
+  "ner_model": "MMG/xlm-roberta-large-ner-spanish",
+  "transcripcion": "Alberto se reunió en Barcelona con el gerente de Zara.",
+  "entidades": [
+    {
+      "entity_group": "PER",
+      "word": "Alberto",
+      "score": 0.9915021657943726,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "entity_group": "LOC",
+      "word": "Barcelona",
+      "score": 0.9991305470466614,
+      "start": 21,
+      "end": 30
+    },
+    {
+      "entity_group": "ORG",
+      "word": "Zara",
+      "score": 0.969064474105835,
+      "start": 49,
+      "end": 53
+    }
+  ]
+}

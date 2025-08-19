@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_32.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_32.wav",
+  "transcripcion": "La sede de la ONU se encuentra en Nueva York.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "ONU",
+        "start": 14,
+        "end": 17,
+        "score": 0.9969907999038696
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Nueva York",
+        "start": 34,
+        "end": 44,
+        "score": 0.9986469149589539
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:37.278949Z"
+}

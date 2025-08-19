@@ -1,0 +1,32 @@
+{
+  "archivo_audio": "frase_47.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_47.wav",
+  "transcripcion": "La cantante Aitana actuará en el Palau Sanioordi.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Ai",
+        "start": 12,
+        "end": 14,
+        "score": 0.6120542287826538
+      },
+      {
+        "texto": "tana",
+        "start": 14,
+        "end": 18,
+        "score": 0.5951960682868958
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Palau Sanioordi",
+        "start": 33,
+        "end": 48,
+        "score": 0.9956977963447571
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:02.357002Z"
+}

@@ -1,0 +1,32 @@
+{
+  "archivo_audio": "frase_24.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_24.wav",
+  "transcripcion": "El científico Santiago Ramón y Cajal recibió el premio Nobel de Medicina.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Santiago Ramón y Cajal",
+        "start": 14,
+        "end": 36,
+        "score": 0.9967951774597168
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "Nobel de",
+        "start": 55,
+        "end": 63,
+        "score": 0.6930538415908813
+      },
+      {
+        "texto": "Medicina",
+        "start": 64,
+        "end": 72,
+        "score": 0.6877928972244263
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:26.569649Z"
+}

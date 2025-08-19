@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_38.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_38.wav",
+  "transcripcion": "La NASA lanzará una nueva misión a Marte en 2026.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "NASA",
+        "start": 3,
+        "end": 7,
+        "score": 0.9983249306678772
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Marte",
+        "start": 35,
+        "end": 40,
+        "score": 0.9817659854888916
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:49.963788Z"
+}

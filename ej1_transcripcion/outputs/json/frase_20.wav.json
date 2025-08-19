@@ -1,0 +1,9 @@
+{
+  "archivo_audio": "frase_20.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_20.wav",
+  "transcripcion": "La antártida es el continente más frío del planeta.",
+  "entidades": {},
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:21.218746Z"
+}

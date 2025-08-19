@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_63.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_63.wav",
+  "transcripcion": "El periodista inyaki Gabilondo recibió un premio por su trayectoria.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Gabilondo",
+        "start": 21,
+        "end": 30,
+        "score": 0.8372635841369629
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:24.748478Z"
+}

@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_61.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_61.wav",
+  "transcripcion": "Google organizó un evento en San Francisco para presentar novedades.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Google",
+        "start": 0,
+        "end": 6,
+        "score": 0.9868742823600769
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "San Francisco",
+        "start": 29,
+        "end": 42,
+        "score": 0.9983923435211182
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:20.633918Z"
+}

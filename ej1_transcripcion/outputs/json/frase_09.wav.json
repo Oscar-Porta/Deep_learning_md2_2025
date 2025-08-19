@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_09.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_09.wav",
+  "transcripcion": "El Banco Mundial publicó un informe sobre economía global.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Banco Mundial",
+        "start": 3,
+        "end": 16,
+        "score": 0.999112606048584
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:13:06.153005Z"
+}

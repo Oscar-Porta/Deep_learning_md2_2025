@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_11.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_11.wav",
+  "transcripcion": "La escritora Laura Esquivel es famosa por su novela como agua para chocolate.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Laura Esquivel",
+        "start": 13,
+        "end": 27,
+        "score": 0.9965537190437317
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "como agua para chocolate",
+        "start": 52,
+        "end": 76,
+        "score": 0.8128312230110168
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:01.916872Z"
+}

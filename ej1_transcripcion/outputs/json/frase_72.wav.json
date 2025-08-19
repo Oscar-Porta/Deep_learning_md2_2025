@@ -1,0 +1,24 @@
+{
+  "archivo_audio": "frase_72.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_72.wav",
+  "transcripcion": "El Museo Gugenjei me está ubicado en Bilbao.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Museo Gugenjei",
+        "start": 3,
+        "end": 17,
+        "score": 0.9921501278877258
+      },
+      {
+        "texto": "Bilbao",
+        "start": 37,
+        "end": 43,
+        "score": 0.9993554949760437
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:35.579882Z"
+}

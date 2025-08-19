@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_44.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_44.wav",
+  "transcripcion": "El escritor Jorge Luis Borges nació en Buenos Aires.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Jorge Luis Borges",
+        "start": 12,
+        "end": 29,
+        "score": 0.9938803315162659
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Buenos Aires",
+        "start": 39,
+        "end": 51,
+        "score": 0.9962665438652039
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:58.774827Z"
+}

@@ -1,0 +1,32 @@
+{
+  "archivo_audio": "frase_57.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_57.wav",
+  "transcripcion": "La compañía Iberia opera vuelos a América Latina desde Madrid.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Iberia",
+        "start": 12,
+        "end": 18,
+        "score": 0.8476362824440002
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "América Latina",
+        "start": 34,
+        "end": 48,
+        "score": 0.9978105425834656
+      },
+      {
+        "texto": "Madrid",
+        "start": 55,
+        "end": 61,
+        "score": 0.9996079802513123
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:15.451305Z"
+}

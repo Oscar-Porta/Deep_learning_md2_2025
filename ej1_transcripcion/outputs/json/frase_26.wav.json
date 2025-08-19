@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_26.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_26.wav",
+  "transcripcion": "El escritor Miguel de Cervantes es autor de Donkey Hote.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Miguel de Cervantes",
+        "start": 12,
+        "end": 31,
+        "score": 0.9952972531318665
+      }
+    ],
+    "MISC": [
+      {
+        "texto": "Donkey Hote",
+        "start": 44,
+        "end": 55,
+        "score": 0.983292818069458
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:29.428839Z"
+}

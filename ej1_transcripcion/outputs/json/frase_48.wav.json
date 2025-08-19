@@ -1,0 +1,32 @@
+{
+  "archivo_audio": "frase_48.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_48.wav",
+  "transcripcion": "Francisco de Gollanació en Fuende Todos, Zaragoza.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Francisco de Gollanació",
+        "start": 0,
+        "end": 23,
+        "score": 0.9941614270210266
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Fuende Todos",
+        "start": 27,
+        "end": 39,
+        "score": 0.9909615516662598
+      },
+      {
+        "texto": "Zaragoza",
+        "start": 41,
+        "end": 49,
+        "score": 0.9991834759712219
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:03.618308Z"
+}

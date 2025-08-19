@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_66.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_66.wav",
+  "transcripcion": "La reina Leticia asistió a un acto en la Biblioteca Nacional.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Leticia",
+        "start": 9,
+        "end": 16,
+        "score": 0.8189215064048767
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Biblioteca Nacional",
+        "start": 41,
+        "end": 60,
+        "score": 0.9948747158050537
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:28.260920Z"
+}

@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_42.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_42.wav",
+  "transcripcion": "Amazon tiene un centro de distribución en hilescas, Toledo.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Amazon",
+        "start": 0,
+        "end": 6,
+        "score": 0.9930934906005859
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Toledo",
+        "start": 52,
+        "end": 58,
+        "score": 0.9984627962112427
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:54.771435Z"
+}

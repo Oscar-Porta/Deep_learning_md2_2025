@@ -1,0 +1,32 @@
+{
+  "archivo_audio": "frase_12.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_12.wav",
+  "transcripcion": "El pintor Salvador Dalinación en Figueres, España.",
+  "entidades": {
+    "PER": [
+      {
+        "texto": "Salvador Dalinación",
+        "start": 10,
+        "end": 29,
+        "score": 0.9911462664604187
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "Figueres",
+        "start": 33,
+        "end": 41,
+        "score": 0.9987953901290894
+      },
+      {
+        "texto": "España",
+        "start": 43,
+        "end": 49,
+        "score": 0.9992589354515076
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:03.460998Z"
+}

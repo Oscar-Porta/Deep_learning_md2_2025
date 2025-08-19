@@ -1,0 +1,42 @@
+{
+  "archivo_audio": "frase_25.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_25.wav",
+  "transcripcion": "la ciudad de Quito está situada en Ecuador, en los Andes.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Qui",
+        "start": 13,
+        "end": 16,
+        "score": 0.9987459182739258
+      },
+      {
+        "texto": "to",
+        "start": 16,
+        "end": 18,
+        "score": 0.7824050188064575
+      },
+      {
+        "texto": "Ecuador",
+        "start": 35,
+        "end": 42,
+        "score": 0.9976523518562317
+      },
+      {
+        "texto": "And",
+        "start": 51,
+        "end": 54,
+        "score": 0.8598629236221313
+      },
+      {
+        "texto": "es",
+        "start": 54,
+        "end": 56,
+        "score": 0.41241082549095154
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:28.263282Z"
+}

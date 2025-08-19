@@ -1,0 +1,24 @@
+{
+  "archivo_audio": "frase_05.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_05.wav",
+  "transcripcion": "La conferencia tuvo lugar en el Palacio de Congresos de Madrid.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Palacio de Congresos",
+        "start": 32,
+        "end": 52,
+        "score": 0.9975417852401733
+      },
+      {
+        "texto": "Madrid",
+        "start": 56,
+        "end": 62,
+        "score": 0.7271393537521362
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:12:59.682008Z"
+}

@@ -1,0 +1,26 @@
+{
+  "archivo_audio": "frase_18.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_18.wav",
+  "transcripcion": "Telefónica es una de las mayores empresas de telecomunicaciones en España.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "Telefónica",
+        "start": 0,
+        "end": 10,
+        "score": 0.9914581179618835
+      }
+    ],
+    "LOC": [
+      {
+        "texto": "España",
+        "start": 67,
+        "end": 73,
+        "score": 0.9994093179702759
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:11.972212Z"
+}

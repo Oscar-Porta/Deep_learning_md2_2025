@@ -1,0 +1,36 @@
+{
+  "archivo_audio": "frase_23.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_23.wav",
+  "transcripcion": "La compañía irbustiene fábricas en Sevilla yjetafe.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Sevilla",
+        "start": 35,
+        "end": 42,
+        "score": 0.9993508458137512
+      },
+      {
+        "texto": "je",
+        "start": 44,
+        "end": 46,
+        "score": 0.6710724234580994
+      },
+      {
+        "texto": "ta",
+        "start": 46,
+        "end": 48,
+        "score": 0.5538952946662903
+      },
+      {
+        "texto": "fe",
+        "start": 48,
+        "end": 50,
+        "score": 0.7042043805122375
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:14:25.480822Z"
+}

@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_71.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_71.wav",
+  "transcripcion": "El festival primavera se ha un reúne a miles de asistentes en Barcelona.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Barcelona",
+        "start": 62,
+        "end": 71,
+        "score": 0.9993645548820496
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:34.330665Z"
+}

@@ -1,0 +1,18 @@
+{
+  "archivo_audio": "frase_54.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_54.wav",
+  "transcripcion": "La empresa VVA tiene presencia en más de 30 países.",
+  "entidades": {
+    "ORG": [
+      {
+        "texto": "VVA",
+        "start": 11,
+        "end": 14,
+        "score": 0.9163141250610352
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:11.264806Z"
+}

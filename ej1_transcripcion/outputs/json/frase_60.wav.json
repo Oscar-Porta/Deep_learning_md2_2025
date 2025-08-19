@@ -1,0 +1,24 @@
+{
+  "archivo_audio": "frase_60.wav",
+  "ruta_audio": "/content/drive/MyDrive/MASTER BIG DATA/md2_2025/ej1_transcripcion/data/audio/frase_60.wav",
+  "transcripcion": "La Catedral de Santiago es destino final del camino de Santiago.",
+  "entidades": {
+    "LOC": [
+      {
+        "texto": "Catedral de Santiago",
+        "start": 3,
+        "end": 23,
+        "score": 0.9965729117393494
+      },
+      {
+        "texto": "Santiago",
+        "start": 55,
+        "end": 63,
+        "score": 0.9955783486366272
+      }
+    ]
+  },
+  "modelo_whisper": "base",
+  "modelo_ner": "MMG/xlm-roberta-large-ner-spanish",
+  "timestamp": "2025-08-17T11:15:19.321986Z"
+}
