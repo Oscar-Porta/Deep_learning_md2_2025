@@ -1,0 +1,4 @@
+modelo,MAE,RMSE
+base_lags,95.51,109.47
+extendido_lags+meteo,119.28,125.72
+extendido_lags+meteo+calendario,66.08,71.76

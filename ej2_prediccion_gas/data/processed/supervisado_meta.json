@@ -1,0 +1,28 @@
+{
+  "lags": [
+    1,
+    2,
+    3,
+    7
+  ],
+  "horizonte": 7,
+  "anchor_test": "2022-12-24",
+  "fila_test": 1566,
+  "feat_cols": [
+    "consumo_lag1",
+    "consumo_lag2",
+    "consumo_lag3",
+    "consumo_lag7"
+  ],
+  "y_cols": [
+    "y_t+1",
+    "y_t+2",
+    "y_t+3",
+    "y_t+4",
+    "y_t+5",
+    "y_t+6",
+    "y_t+7"
+  ],
+  "n_train": 1566,
+  "n_test": 1
+}

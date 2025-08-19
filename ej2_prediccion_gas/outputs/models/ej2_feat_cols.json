@@ -1,0 +1,22 @@
+[
+  "consumo_lag1",
+  "consumo_lag2",
+  "consumo_lag3",
+  "consumo_lag7",
+  "tmed",
+  "tmax_dia",
+  "tmin_dia",
+  "prec_dia",
+  "vmax_dia",
+  "inso_dia",
+  "es_fin_de_semana",
+  "es_festivo_nacional",
+  "festivo_efecto",
+  "dow_0",
+  "dow_1",
+  "dow_2",
+  "dow_3",
+  "dow_4",
+  "dow_5",
+  "dow_6"
+]
